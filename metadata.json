@@ -1,0 +1,6 @@
+{
+  "name": "Nantou Health Deep Cultivation Prototype",
+  "description": "Interactive web prototype for 南投縣深耕計畫 (Nantou Health Deep Cultivation Project)",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
